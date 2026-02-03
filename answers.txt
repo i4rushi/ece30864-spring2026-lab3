@@ -17,3 +17,23 @@ Scrum Master vs Product Owner
     Scrum Master: Acts as a servant-leader and coach; facilitates meetings (standups, retrospectives); removes blockers for the team; ensures the Scrum process is followed.
 
     Product Owner: Represents the stakeholders/customers; manages and prioritizes the Product Backlog; defines the "What" (features) and maximizes the value of the product.
+
+(c) 3 Types of Sprint Meetings (List 2 points each)
+
+    Sprint Planning:
+
+        Team selects items from the backlog to work on.
+
+        Team estimates effort and defines the Sprint Goal.
+
+    Daily Standup (Scrum):
+
+        Time-boxed (usually 15 min) sync on progress.
+
+        Members answer: What did I do yesterday? What will I do today? Do I have blockers?
+
+    Sprint Review:
+
+        Team demonstrates the "Done" increment to stakeholders.
+
+        Feedback is gathered to update the backlog. (Alternatively: Sprint Retrospective - discuss what went well/wrong and plan improvements).
