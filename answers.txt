@@ -37,3 +37,13 @@ Scrum Master vs Product Owner
         Team demonstrates the "Done" increment to stakeholders.
 
         Feedback is gathered to update the backlog. (Alternatively: Sprint Retrospective - discuss what went well/wrong and plan improvements).
+
+(d) Differentiate Jira Issue Types
+
+    Epic: A large body of work that can be broken down into smaller stories (e.g., "Build Payment System").
+
+    Story: A user requirement or feature manageable within a sprint (e.g., "As a user, I want to pay via PayPal").
+
+    Bug: A problem or error that impairs functionality (e.g., "Submit button crashes app").
+
+    Task: A piece of work that isn't a direct user feature but is necessary (e.g., "Update server config").
