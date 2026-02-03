@@ -10,3 +10,10 @@ Cons of Agile:
     Scope Creep: Lack of a fixed end-date or definition can lead to ever-expanding requirements.
 
     Documentation: fast-paced sprints often lead to neglected or sparse documentation.
+
+(b) 
+Scrum Master vs Product Owner
+
+    Scrum Master: Acts as a servant-leader and coach; facilitates meetings (standups, retrospectives); removes blockers for the team; ensures the Scrum process is followed.
+
+    Product Owner: Represents the stakeholders/customers; manages and prioritizes the Product Backlog; defines the "What" (features) and maximizes the value of the product.
