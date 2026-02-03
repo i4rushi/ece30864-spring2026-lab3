@@ -1,0 +1,12 @@
+(a)
+Pros of Agile:
+
+    Adaptability: Changes can be implemented at any stage of the process.
+
+    Customer Satisfaction: Continuous delivery of useful software ensures the client is happy.
+
+Cons of Agile:
+
+    Scope Creep: Lack of a fixed end-date or definition can lead to ever-expanding requirements.
+
+    Documentation: fast-paced sprints often lead to neglected or sparse documentation.
